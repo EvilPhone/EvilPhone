@@ -1,5 +1,4 @@
 
 Hello! 
-I'm Unity Developer, from Moscow.
-
+I'm GameDev Developer.
 Goodbye!
